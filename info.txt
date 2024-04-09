@@ -1,0 +1,8 @@
+Below are the details of files in this repository:
+PSP_Jan_Feb_2019_original: Original Data file provided by IU for this case study(converted to csv).
+PSP_Jan_Feb_2019_transac_fees: Original transaction fee data provided by IU for this case study(converted to csv).
+PSP_Jan_Feb_2019_predicted: Predicted Data file data obtained after doing analysis by the selected model.
+Data_Pre-Processing: Covers the python code with explanation for data pre-processing 
+Modelling: Covers the python code with explanation for designing the model
+Evaluation_and_Plotting: Covers the python code with explanation for evaluation approach followed
+plots: Covers the plots obtained from the designed model
